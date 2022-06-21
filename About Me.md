@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LawranceC
 - 👀 I’m interested in computer development
-- 🌱 I’m currently learning javascript code
+- 🌱 I’m currently learning data structures and implementing it in my codes
 - 📫 My E-mail: lawrance2004.lc@gmail.com
